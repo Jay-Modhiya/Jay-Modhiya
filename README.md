@@ -1,7 +1,8 @@
+ ### Hi there, I'm Jay Modhiya! 👋
 <img src= "https://github.com/Jay-Modhiya/Jay-Modhiya/blob/main/th.gif">
-# Hi there, I'm Jay Modhiya! 👋
 
-## About Me
+
+### About Me
 I am an aspiring Data Analyst with a passion for turning data into actionable insights. My goal is to harness the power of data analytics and machine learning to drive decision-making and innovation.
 
 ## Skills
