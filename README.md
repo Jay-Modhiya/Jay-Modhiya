@@ -51,4 +51,12 @@ Here are a few projects I've worked on:
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Profile GIF" style="width: 100%; height: auto;">
 </div>
 
+# 📊 GitHub Stats:
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=Jay-Modhiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jay-Modhiya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Modhiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
